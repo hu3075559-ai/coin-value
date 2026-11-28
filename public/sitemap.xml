@@ -48,4 +48,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://coin-value.pages.dev/guides/jiu-qianbi-chushou-qian-xian-gujia-haishi-zhijie-mai</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
